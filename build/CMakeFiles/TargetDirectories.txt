@@ -1,0 +1,3 @@
+C:/Users/drozh/Desktop/irunner/task_4/build/CMakeFiles/MyProject.dir
+C:/Users/drozh/Desktop/irunner/task_4/build/CMakeFiles/edit_cache.dir
+C:/Users/drozh/Desktop/irunner/task_4/build/CMakeFiles/rebuild_cache.dir
