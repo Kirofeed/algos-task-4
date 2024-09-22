@@ -141,4 +141,11 @@ CMakeFiles/MyProject.dir/main.cpp.obj: \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/basic_ios.tcc \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/ostream.tcc \
  C:/msys64/ucrt64/include/c++/13.2.0/istream \
- C:/msys64/ucrt64/include/c++/13.2.0/bits/istream.tcc
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/istream.tcc \
+ C:/msys64/ucrt64/include/c++/13.2.0/vector \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_uninitialized.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_vector.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_bvector.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/vector.tcc \
+ C:/msys64/ucrt64/include/c++/13.2.0/utility \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_relops.h
