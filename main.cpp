@@ -20,21 +20,16 @@ using namespace std;
 int main () {
     int s = 0;
     cin >> s;
-    // vector<pair<int, int>> matrixes(s);
-    // for (int i = 0; i < s; i++)
-    // {
-    //     int first_arg = 0;
-    //     int secont_arg = 0;
-    //     cin >> first_arg >> secont_arg;
-    //     matrixes[i] = make_pair(first_arg, secont_arg);
-    // }
-    int dp[s][s] {};
-    for (size_t i = 0; i < s; i++)
+    vector<pair<int, int>> matrixes(s);
+    for (int i = 0; i < s; i++)
     {
-        for (size_t j = 0; j < s; j++)
-        {
-            cout << dp[i][j] << "\t";
-        }
-        cout << endl;
+        int first_arg = 0;
+        int secont_arg = 0;
+        cin >> first_arg >> secont_arg;
+        matrixes[i] = make_pair(first_arg, secont_arg);
     }
+    vector<vector<int>> dp(s, vector<int> (s, 0));
+    
+
+
 }
